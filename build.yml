@@ -1,6 +1,6 @@
 # NeON Build File (http://github.com/c4s4/neon)
 
-extends: [slides, git, changelog]
+extends: [slides, git-master]
 
 properties:
   TITLE:   "Gestion des erreurs en Go"
